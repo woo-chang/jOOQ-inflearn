@@ -38,3 +38,6 @@ out/
 
 ### Kotlin ###
 .kotlin
+
+### jOOQ ###
+src/generated
